@@ -7,7 +7,7 @@
 library(ggplot2)
 
 # Import data
-Points_Relegation_Data <- read.csv("/Users/arielaguilargonzalez/Library/Lima/Soccer Analysis/Forty Points Clear?/Points_Relegation_Data.csv")
+Points_Relegation_Data <- read.csv("...Points_Relegation_Data.csv")
 attach(Points_Relegation_Data)
 
 # Mean Points
