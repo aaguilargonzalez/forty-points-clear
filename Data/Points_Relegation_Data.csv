@@ -1,0 +1,421 @@
+Team ID,Rank,Team,Points,Relegated
+1,1,Manchester United *(C)*,82,0
+2,2,Newcastle United,78,0
+3,3,Liverpool,71,0
+4,4,Aston Villa,63,0
+5,5,Arsenal,63,0
+6,6,Everton,61,0
+7,7,Blackburn Rovers,61,0
+8,8,Tottenham Hotspur,61,0
+9,9,Nottingham Forest,58,0
+10,10,West Ham United,51,0
+11,11,Chelsea,50,0
+12,12,Middlesbrough,43,0
+13,13,Leeds United,43,0
+14,14,Wimbledon,41,0
+15,15,Sheffield Wednesday,40,0
+16,16,Coventry City,38,0
+17,17,Southampton,38,0
+18,18,Manchester City *(R)*,38,1
+19,19,Queens Park Rangers *(R)*,33,1
+20,20,Bolton Wanderers *(R)*,29,1
+21,1,Manchester United *(C)*,75,0
+22,2,Newcastle United,68,0
+23,3,Arsenal,68,0
+24,4,Liverpool,68,0
+25,5,Aston Villa,61,0
+26,6,Chelsea,59,0
+27,7,Sheffield Wednesday,57,0
+28,8,Wimbledon,56,0
+29,9,Leicester City,47,0
+30,10,Tottenham Hotspur,46,0
+31,11,Leeds United,46,0
+32,12,Derby County,46,0
+33,13,Blackburn Rovers,42,0
+34,14,West Ham United,42,0
+35,15,Everton,42,0
+36,16,Southampton,41,0
+37,17,Coventry City,41,0
+38,18,Sunderland *(R)*,40,1
+39,19,Middlesbrough *(R)*,39,1
+40,20,Nottingham Forest *(R)*,34,1
+41,1,Arsenal *(C)*,78,0
+42,2,Manchester United,77,0
+43,3,Liverpool,65,0
+44,4,Chelsea,63,0
+45,5,Leeds United,59,0
+46,6,Blackburn Rovers,58,0
+47,7,Aston Villa,57,0
+48,8,West Ham United,56,0
+49,9,Derby County,55,0
+50,10,Leicester City,53,0
+51,11,Coventry City,52,0
+52,12,Southampton,48,0
+53,13,Newcastle United,44,0
+54,14,Tottenham Hotspur,44,0
+55,15,Wimbledon,44,0
+56,16,Sheffield Wednesday,44,0
+57,17,Everton,40,0
+58,18,Bolton Wanderers *(R)*,40,1
+59,19,Barnsley *(R)*,35,1
+60,20,Crystal Palace *(R)*,33,1
+61,1,Manchester United *(C)*,79,0
+62,2,Arsenal,78,0
+63,3,Chelsea,75,0
+64,4,Leeds United,67,0
+65,5,West Ham United,57,0
+66,6,Aston Villa,55,0
+67,7,Liverpool,54,0
+68,8,Derby County,52,0
+69,9,Middlesbrough,51,0
+70,10,Leicester City,49,0
+71,11,Tottenham Hotspur,47,0
+72,12,Sheffield Wednesday,46,0
+73,13,Newcastle United,46,0
+74,14,Everton,43,0
+75,15,Coventry City,42,0
+76,16,Wimbledon,42,0
+77,17,Southampton,41,0
+78,18,Charlton Athletic *(R)*,36,1
+79,19,Blackburn Rovers *(R)*,35,1
+80,20,Nottingham Forest *(R)*,30,1
+81,1,Manchester United *(C)*,91,0
+82,2,Arsenal,73,0
+83,3,Leeds United,69,0
+84,4,Liverpool,67,0
+85,5,Chelsea,65,0
+86,6,Aston Villa,58,0
+87,7,Sunderland,58,0
+88,8,Leicester City,55,0
+89,9,West Ham United,55,0
+90,10,Tottenham Hotspur,53,0
+91,11,Newcastle United,52,0
+92,12,Middlesbrough,52,0
+93,13,Everton,50,0
+94,14,Coventry City,44,0
+95,15,Southampton,44,0
+96,16,Derby County,38,0
+97,17,Bradford City,36,0
+98,18,Wimbledon *(R)*,33,1
+99,19,Sheffield Wednesday *(R)*,31,1
+100,20,Watford *(R)*,24,1
+101,1,Manchester United *(C)*,80,0
+102,2,Arsenal,70,0
+103,3,Liverpool,69,0
+104,4,Leeds United,68,0
+105,5,Ipswich Town,66,0
+106,6,Chelsea,61,0
+107,7,Sunderland,57,0
+108,8,Aston Villa,54,0
+109,9,Charlton Athletic,52,0
+110,10,Southampton,52,0
+111,11,Newcastle United,51,0
+112,12,Tottenham Hotspur,49,0
+113,13,Leicester City,48,0
+114,14,Middlesbrough,42,0
+115,15,West Ham United,42,0
+116,16,Everton,42,0
+117,17,Derby County,42,0
+118,18,Manchester City *(R)*,34,1
+119,19,Coventry City *(R)*,34,1
+120,20,Bradford City *(R)*,26,1
+121,1,Arsenal !Arsenal *(C)*,87,0
+122,2,Liverpool !Liverpool,80,0
+123,3,Manchester United !Manchester United,77,0
+124,4,Newcastle United !Newcastle United,71,0
+125,5,Leeds United !Leeds United,66,0
+126,6,Chelsea !Chelsea,64,0
+127,7,West Ham United !West Ham United,53,0
+128,8,Aston Villa !Aston Villa,50,0
+129,9,Tottenham Hotspur !Tottenham Hotspur,50,0
+130,10,Blackburn Rovers !Blackburn Rovers,46,0
+131,11,Southampton !Southampton,45,0
+132,12,Middlesbrough !Middlesbrough,45,0
+133,13,Fulham !Fulham,44,0
+134,14,Charlton Athletic !Charlton Athletic,44,0
+135,15,Everton !Everton,43,0
+136,16,Bolton Wanderers !Bolton Wanderers,40,0
+137,17,Sunderland !Sunderland,40,0
+138,18,Ipswich Town *(R)*,36,1
+139,19,Derby County *(R)*,30,1
+140,20,Leicester City *(R)*,28,1
+141,1,Manchester United !Manchester United *(C)*,83,0
+142,2,Arsenal !Arsenal,78,0
+143,3,Newcastle United !Newcastle United,69,0
+144,4,Chelsea !Chelsea,67,0
+145,5,Liverpool !Liverpool,64,0
+146,6,Blackburn Rovers !Blackburn Rovers,60,0
+147,7,Everton !Everton,59,0
+148,8,Southampton !Southampton,52,0
+149,9,Manchester City !Manchester City,51,0
+150,10,Tottenham Hotspur !Tottenham Hotspur,50,0
+151,11,Middlesbrough !Middlesbrough,49,0
+152,12,Charlton Athletic !Charlton Athletic,49,0
+153,13,Birmingham City !Birmingham City,48,0
+154,14,Fulham !Fulham,48,0
+155,15,Leeds United !Leeds United,47,0
+156,16,Aston Villa !Aston Villa,45,0
+157,17,Bolton Wanderers !Bolton Wanderers,44,0
+158,18,West Ham United !West Ham United *(R)*,42,1
+159,19,West Bromwich Albion !West Bromwich Albion *(R)*,26,1
+160,20,Sunderland !Sunderland *(R)*,19,1
+161,1,Arsenal !Arsenal *(C)*,90,0
+162,2,Chelsea !Chelsea,79,0
+163,3,Manchester United !Manchester United,75,0
+164,4,Liverpool !Liverpool,60,0
+165,5,Newcastle United !Newcastle United,56,0
+166,6,Aston Villa !Aston Villa,56,0
+167,7,Charlton Athletic !Charlton Athletic,53,0
+168,8,Bolton Wanderers !Bolton Wanderers,53,0
+169,9,Fulham !Fulham,52,0
+170,10,Birmingham City !Birmingham City,50,0
+171,11,Middlesbrough !Middlesbrough,48,0
+172,12,Southampton !Southampton,47,0
+173,13,Portsmouth !Portsmouth,45,0
+174,14,Tottenham Hotspur !Tottenham Hotspur,45,0
+175,15,Blackburn Rovers !Blackburn Rovers,44,0
+176,16,Manchester City !Manchester City,41,0
+177,17,Everton !Everton,39,0
+178,18,Leicester City !Leicester City *(R)*,33,1
+179,19,Leeds United !Leeds United *(R)*,33,1
+180,20,Wolverhampton Wanderers !Wolverhampton Wanderers *(R)*,33,1
+181,1,Chelsea !Chelsea *(C)*,95,0
+182,2,Arsenal !Arsenal,83,0
+183,3,Manchester United !Manchester United,77,0
+184,4,Everton !Everton,61,0
+185,5,Liverpool !Liverpool,58,0
+186,6,Bolton Wanderers !Bolton Wanderers,58,0
+187,7,Middlesbrough !Middlesbrough,55,0
+188,8,Manchester City !Manchester City,52,0
+189,9,Tottenham Hotspur !Tottenham Hotspur,52,0
+190,10,Aston Villa !Aston Villa,47,0
+191,11,Charlton Athletic !Charlton Athletic,46,0
+192,12,Birmingham City !Birmingham City,45,0
+193,13,Fulham !Fulham,44,0
+194,14,Newcastle United !Newcastle United,44,0
+195,15,Blackburn Rovers !Blackburn Rovers,42,0
+196,16,Portsmouth !Portsmouth,39,0
+197,17,West Bromwich Albion !West Bromwich Albion,34,0
+198,18,Crystal Palace *(R)*,33,1
+199,19,Norwich City *(R)*,33,1
+200,20,Southampton *(R)*,32,1
+201,1,Chelsea !Chelsea *(C)*,91,0
+202,2,Manchester United !Manchester United,83,0
+203,3,Liverpool !Liverpool,82,0
+204,4,Arsenal !Arsenal,67,0
+205,5,Tottenham Hotspur !Tottenham Hotspur,65,0
+206,6,Blackburn Rovers !Blackburn Rovers,63,0
+207,7,Newcastle United !Newcastle United,58,0
+208,8,Bolton Wanderers !Bolton Wanderers,56,0
+209,9,West Ham United !West Ham United,55,0
+210,10,Wigan Athletic !Wigan Athletic,51,0
+211,11,Everton !Everton,50,0
+212,12,Fulham !Fulham,48,0
+213,13,Charlton Athletic !Charlton Athletic,47,0
+214,14,Middlesbrough !Middlesbrough,45,0
+215,15,Manchester City !Manchester City,43,0
+216,16,Aston Villa !Aston Villa,42,0
+217,17,Portsmouth !Portsmouth,38,0
+218,18,Birmingham City *(R)*,34,1
+219,19,West Bromwich Albion *(R)*,30,1
+220,20,Sunderland *(R)*,15,1
+221,1,Manchester United !Manchester United *(C)*,89,0
+222,2,Chelsea !Chelsea,83,0
+223,3,Liverpool !Liverpool,68,0
+224,4,Arsenal !Arsenal,68,0
+225,5,Tottenham Hotspur !Tottenham Hotspur,60,0
+226,6,Everton !Everton,58,0
+227,7,Bolton Wanderers !Bolton Wanderers,56,0
+228,8,Reading !Reading,55,0
+229,9,Portsmouth !Portsmouth,54,0
+230,10,Blackburn Rovers !Blackburn Rovers,52,0
+231,11,Aston Villa !Aston Villa,50,0
+232,12,Middlesbrough !Middlesbrough,46,0
+233,13,Newcastle United !Newcastle United,43,0
+234,14,Manchester City !Manchester City,42,0
+235,15,West Ham United !West Ham United,41,0
+236,16,Fulham !Fulham,39,0
+237,17,Wigan Athletic !Wigan Athletic,38,0
+238,18,Sheffield United !Sheffield United *(R)*,38,1
+239,19,Charlton Athletic !Charlton Athletic *(R)*,34,1
+240,20,Watford !Watford *(R)*,28,1
+241,1,Manchester United !Manchester United *(C)*,87,0
+242,2,Chelsea !Chelsea,85,0
+243,3,Arsenal !Arsenal,83,0
+244,4,Liverpool !Liverpool,76,0
+245,5,Everton !Everton,65,0
+246,6,Aston Villa !Aston Villa,60,0
+247,7,Blackburn Rovers !Blackburn Rovers,58,0
+248,8,Portsmouth !Portsmouth,57,0
+249,9,Manchester City !Manchester City,55,0
+250,10,West Ham United !West Ham United,49,0
+251,11,Tottenham Hotspur !Tottenham Hotspur,46,0
+252,12,Newcastle United !Newcastle United,43,0
+253,13,Middlesbrough !Middlesbrough,42,0
+254,14,Wigan Athletic !Wigan Athletic,40,0
+255,15,Sunderland !Sunderland,39,0
+256,16,Bolton Wanderers !Bolton Wanderers,37,0
+257,17,Fulham !Fulham,36,0
+258,18,Reading !Reading *(R)*,36,1
+259,19,Birmingham City !Birmingham City *(R)*,35,1
+260,20,Derby County !Derby County *(R)*,11,1
+261,1,Manchester United !Manchester United *(C)*,90,0
+262,2,Liverpool !Liverpool,86,0
+263,3,Chelsea !Chelsea,83,0
+264,4,Arsenal !Arsenal,72,0
+265,5,Everton !Everton,63,0
+266,6,Aston Villa !Aston Villa,62,0
+267,7,Fulham !Fulham,53,0
+268,8,Tottenham Hotspur !Tottenham Hotspur,51,0
+269,9,West Ham United !West Ham United,51,0
+270,10,Manchester City !Manchester City,50,0
+271,11,Wigan Athletic !Wigan Athletic,45,0
+272,12,Stoke City !Stoke City,45,0
+273,13,Bolton Wanderers !Bolton Wanderers,41,0
+274,14,Portsmouth !Portsmouth,41,0
+275,15,Blackburn Rovers !Blackburn Rovers,41,0
+276,16,Sunderland !Sunderland,36,0
+277,17,Hull City !Hull City,35,0
+278,18,Newcastle United !Newcastle United *(R)*,34,1
+279,19,Middlesbrough !Middlesbrough *(R)*,32,1
+280,20,West Bromwich Albion !West Bromwich Albion *(R)*,32,1
+281,1,Chelsea !Chelsea *(C)*,86,0
+282,2,Manchester United !Manchester United,85,0
+283,3,Arsenal !Arsenal,75,0
+284,4,Tottenham Hotspur !Tottenham Hotspur,70,0
+285,5,Manchester City !Manchester City,67,0
+286,6,Aston Villa !Aston Villa,64,0
+287,7,Liverpool !Liverpool,63,0
+288,8,Everton !Everton,61,0
+289,9,Birmingham City !Birmingham City,50,0
+290,10,Blackburn Rovers !Blackburn Rovers,50,0
+291,11,Stoke City !Stoke City,47,0
+292,12,Fulham !Fulham,46,0
+293,13,Sunderland !Sunderland,44,0
+294,14,Bolton Wanderers !Bolton Wanderers,39,0
+295,15,Wolverhampton Wanderers !Wolverhampton Wanderers,38,0
+296,16,Wigan Athletic !Wigan Athletic,36,0
+297,17,West Ham United !West Ham United,35,0
+298,18,Burnley !Burnley *(R)*,30,1
+299,19,Hull City !Hull City *(R)*,30,1
+300,20,Portsmouth !Portsmouth *(R)*,19,1
+301,1,Manchester United !Manchester United *(C)*,80,0
+302,2,Chelsea !Chelsea,71,0
+303,3,Manchester City !Manchester City,71,0
+304,4,Arsenal !Arsenal,68,0
+305,5,Tottenham Hotspur !Tottenham Hotspur,62,0
+306,6,Liverpool !Liverpool,58,0
+307,7,Everton !Everton,54,0
+308,8,Fulham !Fulham,49,0
+309,9,Aston Villa !Aston Villa,48,0
+310,10,Sunderland !Sunderland,47,0
+311,11,West Bromwich Albion !West Bromwich Albion,47,0
+312,12,Newcastle United !Newcastle United,46,0
+313,13,Stoke City !Stoke City,46,0
+314,14,Bolton Wanderers !Bolton Wanderers,46,0
+315,15,Blackburn Rovers !Blackburn Rovers,43,0
+316,16,Wigan Athletic !Wigan Athletic,42,0
+317,17,Wolverhampton Wanderers !Wolverhampton Wanderers,40,0
+318,18,Birmingham City *(R)*,39,1
+319,19,Blackpool !Blackpool *(R)*,39,1
+320,20,West Ham United !West Ham United *(R)*,33,1
+321,1,Manchester City !Manchester City *(C)*,89,0
+322,2,Manchester United !Manchester United,89,0
+323,3,Arsenal !Arsenal,70,0
+324,4,Tottenham Hotspur !Tottenham Hotspur,69,0
+325,5,Newcastle United !Newcastle United,65,0
+326,6,Chelsea !Chelsea,64,0
+327,7,Everton !Everton,56,0
+328,8,Liverpool !Liverpool,52,0
+329,9,Fulham !Fulham,52,0
+330,10,West Bromwich Albion !West Bromwich Albion,47,0
+331,11,Swansea City !Swansea City,47,0
+332,12,Norwich City !Norwich City,47,0
+333,13,Sunderland !Sunderland,45,0
+334,14,Stoke City !Stoke City,45,0
+335,15,Wigan Athletic !Wigan Athletic,43,0
+336,16,Aston Villa !Aston Villa,38,0
+337,17,Queens Park Rangers !Queens Park Rangers,37,0
+338,18,Bolton Wanderers !Bolton Wanderers *(R)*,36,1
+339,19,Blackburn Rovers !Blackburn Rovers *(R)*,31,1
+340,20,Wolverhampton Wanderers !Wolverhampton Wanderers *(R)*,25,1
+341,1,Manchester United *(C)*,89,0
+342,2,Manchester City,78,0
+343,3,Chelsea,75,0
+344,4,Arsenal,73,0
+345,5,Tottenham Hotspur,72,0
+346,6,Everton,63,0
+347,7,Liverpool,61,0
+348,8,West Bromwich Albion,49,0
+349,9,Swansea City,46,0
+350,10,West Ham United,46,0
+351,11,Norwich City,44,0
+352,12,Fulham,43,0
+353,13,Stoke City,42,0
+354,14,Southampton,41,0
+355,15,Aston Villa,41,0
+356,16,Newcastle United,41,0
+357,17,Sunderland,39,0
+358,18,Wigan Athletic *(R)*,36,1
+359,19,Reading *(R)*,28,1
+360,20,Queens Park Rangers *(R)*,25,1
+361,1,Manchester City !Manchester City *(C)*,86,0
+362,2,Liverpool !Liverpool,84,0
+363,3,Chelsea !Chelsea,82,0
+364,4,Arsenal !Arsenal,79,0
+365,5,Everton !Everton,72,0
+366,6,Tottenham Hotspur !Tottenham Hotspur,69,0
+367,7,Manchester United !Manchester United,64,0
+368,8,Southampton !Southampton,56,0
+369,9,Stoke City !Stoke City,50,0
+370,10,Newcastle United !Newcastle United,49,0
+371,11,Crystal Palace !Crystal Palace,45,0
+372,12,Swansea City !Swansea City,42,0
+373,13,West Ham United !West Ham United,40,0
+374,14,Sunderland !Sunderland,38,0
+375,15,Aston Villa !Aston Villa,38,0
+376,16,Hull City !Hull City,37,0
+377,17,West Bromwich Albion !West Bromwich Albion,36,0
+378,18,Norwich City !Norwich City *(R)*,33,1
+379,19,Fulham !Fulham *(R)*,32,1
+380,20,Cardiff City !Cardiff City *(R)*,30,1
+381,1,Chelsea (C),87,0
+382,2,Manchester City,79,0
+383,3,Arsenal,75,0
+384,4,Manchester United,70,0
+385,5,Tottenham Hotspur,64,0
+386,6,Liverpool,62,0
+387,7,Southampton,60,0
+388,8,Swansea City,56,0
+389,9,Stoke City,54,0
+390,10,Crystal Palace,48,0
+391,11,Everton,47,0
+392,12,West Ham United,47,0
+393,13,West Bromwich Albion,44,0
+394,14,Leicester City,41,0
+395,15,Newcastle United,39,0
+396,16,Sunderland,38,0
+397,17,Aston Villa,38,0
+398,18,Hull City (R),35,1
+399,19,Burnley (R),33,1
+400,20,Queens Park Rangers (R),30,1
+401,1,Leicester City (C),81,0
+402,2,Arsenal,71,0
+403,3,Tottenham Hotspur,70,0
+404,4,Manchester City,66,0
+405,5,Manchester United,66,0
+406,6,Southampton,63,0
+407,7,West Ham United,62,0
+408,8,Liverpool,60,0
+409,9,Stoke City,51,0
+410,10,Chelsea,50,0
+411,11,Everton,47,0
+412,12,Swansea City,47,0
+413,13,Watford,45,0
+414,14,West Bromwich Albion,43,0
+415,15,Crystal Palace,42,0
+416,16,AFC Bournemouth,42,0
+417,17,Sunderland,39,0
+418,18,Newcastle United (R),37,1
+419,19,Norwich City (R),34,1
+420,20,Aston Villa (R),17,1
