@@ -126,3 +126,5 @@ dev.copy(jpeg, 'relegationmodel.jpeg')
 dev.off()
 
 ```
+
+![Final Model Output](https://aaguilargonzalez.github.io/forty-points-clear/relegationmodel.jpeg)
